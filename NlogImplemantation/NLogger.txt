@@ -1,0 +1,16 @@
+﻿2023-12-02 03:20:54.8669|DEBUG|NlogImplemantation.nlogOperation|Got all Books
+2023-12-02 03:20:54.8669|INFO|NlogImplemantation.nlogOperation|All Books Found
+2023-12-02 03:22:11.1135|DEBUG|NlogImplemantation.nlogOperation|Got User Details
+2023-12-02 03:22:11.1988|INFO|NlogImplemantation.nlogOperation|User Logged In Successfully
+2023-12-02 03:23:05.8911|DEBUG|NlogImplemantation.nlogOperation|Book Added
+2023-12-02 03:23:05.8911|INFO|NlogImplemantation.nlogOperation|Book Added Successfully
+2023-12-02 03:23:28.9689|DEBUG|NlogImplemantation.nlogOperation|Book Added
+2023-12-02 03:23:28.9689|INFO|NlogImplemantation.nlogOperation|Book Added Successfully
+2023-12-02 03:23:39.5768|DEBUG|NlogImplemantation.nlogOperation|Got all Books
+2023-12-02 03:23:39.5768|INFO|NlogImplemantation.nlogOperation|All Books Found
+2023-12-02 03:23:49.3998|DEBUG|NlogImplemantation.nlogOperation|Got the book by Id
+2023-12-02 03:23:49.3998|INFO|NlogImplemantation.nlogOperation|Book by Id Found
+2023-12-02 03:24:11.1810|INFO|NlogImplemantation.nlogOperation|Wishlist Added Successfully
+2023-12-02 03:24:11.1810|DEBUG|NlogImplemantation.nlogOperation|Added to Wishlist
+2023-12-02 03:24:17.7507|DEBUG|NlogImplemantation.nlogOperation|Got all in Wishlist
+2023-12-02 03:24:17.7507|INFO|NlogImplemantation.nlogOperation|All Wishlists Found
